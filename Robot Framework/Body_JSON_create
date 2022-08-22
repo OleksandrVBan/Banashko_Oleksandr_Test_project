@@ -1,0 +1,11 @@
+{
+    "firstname" : "Olex",
+    "lastname" : "Ban",
+    "totalprice" : 123,
+    "depositpaid" : true,
+    "bookingdates" : {
+        "checkin" : "2022-03-20",
+        "checkout" : "2022-03-27"
+    },
+    "additionalneeds" : "Breakfast"
+}
