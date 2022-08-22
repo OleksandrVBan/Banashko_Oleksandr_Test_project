@@ -13,11 +13,8 @@
     Test cases: 
     https://docs.google.com/spreadsheets/d/1glTVchUpD_a9Ue2NiuGXKzkEW-Tc1Kg6LxIlQcDFRCQ/edit#gid=135805457
     
-    Automation Cypress.io:
-      * Demonstration test project.cy.js
-        https://oleksandrvban.github.io/Banashko_Oleksandr_Test_project/Cypress/Demonstration%20test%20project.cy.js
-      * commands.js
-        https://oleksandrvban.github.io/Banashko_Oleksandr_Test_project/Cypress/commands.js
+    Automation Cypress:
+    https://github.com/OleksandrVBan/Banashko_Oleksandr_Test_project/tree/main/Cypress
 
   API testing:
   
@@ -25,3 +22,4 @@
     https://docs.google.com/spreadsheets/d/1glTVchUpD_a9Ue2NiuGXKzkEW-Tc1Kg6LxIlQcDFRCQ/edit#gid=377622122
     
     Automation Robot Framework:
+    https://github.com/OleksandrVBan/Banashko_Oleksandr_Test_project/tree/main/Robot%20Framework
